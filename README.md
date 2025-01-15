@@ -51,9 +51,9 @@ This project demonstrates a robust ETL (Extract, Transform, Load) pipeline desig
   Snowflake tables are connected to Power BI to create interactive dashboards.
 - **Key Visualizations:**
   - Top 10 artists with the highest song popularity.
-  - Top 10 albums with the highest popularity.
+  - Songs popularity by album.
   - Song duration summaries.
-  - Album statistics (e.g., number of tracks per album).
+  - Total tracks by each artist.
 
 ---
 
