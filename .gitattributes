@@ -1,0 +1,8 @@
+HEAD
+*.sql text
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+
+*.sql text
+e8901362abd18a83300a7e0e1e0c5f1ded835bce
